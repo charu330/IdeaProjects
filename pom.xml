@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <distributionManagement>
         <repository>
-            <id>i292335920</id>
+            <id>292335920</id>
             <name>IdeaProjects</name>
             <url>https://github.com/charu330/IdeaProjects</url>
         </repository>
